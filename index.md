@@ -24,4 +24,4 @@
 
 ### Resume
 
-[My resume](
+[My resume](https://github.com/KadenHershberger/KadenHershberger.github.io/blob/main/resume.docx)
