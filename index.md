@@ -25,3 +25,5 @@
 ### Resume
 
 [My resume](https://github.com/KadenHershberger/KadenHershberger.github.io/blob/main/resume.docx)
+
+[IT Explorations page](https://github.com/KadenHershberger/IT-Explorations.git)
