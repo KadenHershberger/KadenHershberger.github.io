@@ -26,4 +26,4 @@
 
 [My resume](https://github.com/KadenHershberger/KadenHershberger.github.io/blob/main/resume.docx)
 
-<a href="https://kadenhershberger.github.io/IT-Explorations/">Page 2</a>
+<a href="https://kadenhershberger.github.io/IT-Explorations/">IT-Explorations</a>
